@@ -1,0 +1,12 @@
+
+# Config files:
+/*.@*
+/repro.rc
+
+
+# Auto-generated files:
+/tmp.*
+
+
+
+# Unsorted stuff (this section should be empty):
