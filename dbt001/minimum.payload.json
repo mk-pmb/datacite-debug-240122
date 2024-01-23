@@ -1,0 +1,6 @@
+﻿{"data":{"type":"dois","attributes":{
+  "doi": "10.82109/anno.test.datacite-test-minimum-lvr-1",
+  "schemaVersion": "http://datacite.org/schema/kernel-4.5",
+  "types": { "resourceType": "Annotation", "resourceTypeGeneral": "Other" },
+  "url": "https://example.net/"
+}}}
