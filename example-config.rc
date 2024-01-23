@@ -1,0 +1,8 @@
+# -*- coding: utf-8, tab-width: 2 -*-
+#
+# Save this as `config.rc`, configure your values, save again.
+
+DC_LOGIN="user:pswd"
+DC_DOI_PREFIX='10.12345/67/'
+DC_DEFAULT_DOI='89'
+# ^-- This DOI will be used when you give '/' (just a slash) as DOI.

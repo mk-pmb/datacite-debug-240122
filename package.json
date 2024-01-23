@@ -1,0 +1,21 @@
+{ "name": "datacite-debug-240122",
+  "version": "0.1.0",
+  "description": "Debugging the DataCite API.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/datacite-debug-240122/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/datacite-debug-240122.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/datacite-debug-240122/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "ISC",
+
+
+  "engines": { "bash": ">=4.0.0" }
+}
